@@ -1,2 +1,18 @@
 Icon?
 .DS_Store
+
+# build products
+makefile
+*.o
+lglcflags.h
+lglcfg.h
+liblgl.a
+
+# binaries
+ilingeling
+lglddtrace
+lglmbt
+lgluntrace
+lingeling
+plingeling
+treengeling
